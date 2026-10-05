@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://gemini.google.com/share/b390d47a68bb?skid=e037fd57-5ade-43ee-9eb7-9cf218bf52b0",
+      "permanent": true
+    }
+  ]
+}
